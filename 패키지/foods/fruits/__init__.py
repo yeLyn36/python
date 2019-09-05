@@ -1,2 +1,1 @@
-def drink():
-    print("우유 마시고 싶다 초코우유 딸기우유 바나나우유 흰우유")
+__all__ = ["grape", "peach", "watermelon"]
