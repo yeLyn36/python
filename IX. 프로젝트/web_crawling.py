@@ -17,5 +17,8 @@ if __name__ == "__main__":
 
     html += "</body></html>"
     # print(html)
+    outputSoup = BeautifulSoup(html, "lxml")
+    prettyHtml = str(outputSoup.prettify())
+
     with open("내일.html", "w", encoding='utf8') as f:
-        f.write(html)
+        f.write(prettyHtml)

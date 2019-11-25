@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d31f465f-d614-4998-9d17-ff2fdcba1012" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IX. 프로젝트/web_crawling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/틱택토 프로젝트/game_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/IX. 프로젝트/game_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/틱택토 프로젝트/tictacto.py" beforeDir="false" afterPath="$PROJECT_DIR$/IX. 프로젝트/tictacto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IX. 프로젝트/web_crawling.py" beforeDir="false" afterPath="$PROJECT_DIR$/IX. 프로젝트/web_crawling.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,14 +53,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IX. 프로젝트/web_crawling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+            <state relative-caret-position="379">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IX. 프로젝트/내일.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="67" lean-forward="true" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -420,7 +427,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572827099969</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Web crawling - 웹툰 '내일'의 제목, 링크 가져오기">
+      <created>1574642141736</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1574642141736</updated>
+    </task>
+    <task id="LOCAL-00023" summary="create html file">
+      <created>1574642852906</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1574642852906</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -432,7 +453,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33049646" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -500,7 +521,9 @@
     <MESSAGE value="save, load object, list" />
     <MESSAGE value="아마스빈 내역 저장 및 불러오기, 이전 주문 금액 총 내역 구하기" />
     <MESSAGE value="Tictacto, GameManager console" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tictacto, GameManager console" />
+    <MESSAGE value="Web crawling - 웹툰 '내일'의 제목, 링크 가져오기" />
+    <MESSAGE value="create html file" />
+    <option name="LAST_COMMIT_MESSAGE" value="create html file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/IX. 프로젝트/tictacto.py">
@@ -535,11 +558,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IX. 프로젝트/web_crawling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        <state relative-caret-position="379">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IX. 프로젝트/내일.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="67" lean-forward="true" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
         </state>
       </provider>
     </entry>
