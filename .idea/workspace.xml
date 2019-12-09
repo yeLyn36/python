@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d31f465f-d614-4998-9d17-ff2fdcba1012" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IX. 프로젝트/open_chrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IX. 프로젝트/open_memo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IX. 프로젝트/크롬.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IX. 프로젝트/크롬아이콘.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IX. 프로젝트/mouse.py" beforeDir="false" afterPath="$PROJECT_DIR$/IX. 프로젝트/mouse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IX. 프로젝트/open_chrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/IX. 프로젝트/open_chrome.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,18 +67,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/IX. 프로젝트/open_chrome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="160">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IX. 프로젝트/크롬아이콘.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -537,19 +529,33 @@
       <option name="project" value="LOCAL" />
       <updated>1575848539095</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="open memo by using pyautogui">
+      <created>1575852755250</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1575852755250</updated>
+    </task>
+    <task id="LOCAL-00031" summary="open chrome by using pyautogui (locateOnScreen, center)">
+      <created>1575852822483</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1575852822483</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="630" y="38" width="894" height="784" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.48891482" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27693325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31643626" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29219857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -597,8 +603,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="패키지 구조 완성" />
-    <MESSAGE value="foods, drinks 활용" />
     <MESSAGE value="foods, fruits 활용" />
     <MESSAGE value="패키지 여러가지 활용 방법" />
     <MESSAGE value="add osmodule" />
@@ -622,7 +626,9 @@
     <MESSAGE value=" web crawling (requests, select)" />
     <MESSAGE value="pyautogui" />
     <MESSAGE value="pyautogui, keyboard" />
-    <option name="LAST_COMMIT_MESSAGE" value="pyautogui, keyboard" />
+    <MESSAGE value="open memo by using pyautogui" />
+    <MESSAGE value="open chrome by using pyautogui (locateOnScreen, center)" />
+    <option name="LAST_COMMIT_MESSAGE" value="open chrome by using pyautogui (locateOnScreen, center)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/IX. 프로젝트/tictacto.py">
@@ -760,8 +766,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/IX. 프로젝트/open_chrome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="160">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>

@@ -9,4 +9,4 @@ if __name__ == '__main__':
     # pag.move(100, 200, 1)
     # pag.rightClick()
     # pag.click(button='right')
-    pag.drag(0, 200, duration=1)
+    # pag.drag(0, 200, duration=1)
